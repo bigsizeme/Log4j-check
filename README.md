@@ -5,7 +5,7 @@ log4J burp被扫插件、CVE-2021-44228、支持RC1绕过、支持json数据类�
 在@pmiaowu fastjosn插件上做的修改，原作者用dnslog.cn进行出网检查，但在大型攻防演练（HW）过程中由于前期打点，测试的站点较多dnslog.cn会对IP进行封禁操作
 导致插件无法正常检测
 
-基础代码为@pmiaow完成 这里就不提供了
+基础代码为@pmiaow完成 这里就不提供源码了
 
 
 #release中提供下载
