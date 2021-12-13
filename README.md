@@ -9,6 +9,6 @@ log4J burp被扫插件、CVE-2021-44228、支持RC1绕过、支持json数据类�
 #release中提供下载
 
 config界面
-![Alt text](https://github.com/bigsizeme/fastjson-check/blob/main/1.png)
+![Alt text](https://github.com/bigsizeme/Log4j-check/blob/main/1.png)
 reapter右键
-![Alt text](https://github.com/bigsizeme/fastjson-check/blob/main/2.png)
+![Alt text](https://github.com/bigsizeme/Log4j-check/blob/main/2.png)
